@@ -147,13 +147,8 @@ body {
     margin: 1% 25px;
     width: 350px;
     height:320px;
-
-}
-
-.image-2 {
-    float: left;
-    margin: 1px;
-    width: 250px; 
-    height:250px;
-
-}
+    background-color: #FFFB7D;
+    padding:4px
+    
+    }
+    
