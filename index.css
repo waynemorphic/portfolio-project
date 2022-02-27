@@ -93,7 +93,7 @@ body {
     width: 50%;
     height: 150px;
     padding: 20px;
-    overflow:hidden
+    overflow: scroll;
     
 
 }
@@ -104,3 +104,21 @@ body {
     clear: both;
 }
 
+.contact {
+    background-color: white;
+    margin-top: 10px;
+    border: 20px;
+    border-radius: 8px;
+
+}
+
+.contact-heading {
+    position: sticky;
+    padding: 10px;
+    background-color: lightseagreen;
+    margin: 25px;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+       
+}
