@@ -115,3 +115,11 @@ body {
     color: white;
        
 }
+
+.footer {
+    padding: 5px;
+    text-align: center;
+    background-color: lightseagreen;
+    margin-top: 20px;
+    
+}
