@@ -6,9 +6,7 @@
 body {
     background-color: #85FFBD;
     background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
-
-
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Amiri', serif
 
 }
 
@@ -27,10 +25,11 @@ body {
     background-color:lightseagreen;
     border-radius: 8px;
     font-size: 150%;
+
 }
 
 .topnavigation a {
-    float:inline-end;
+    float: right;
     display: block;
     color:white;
     text-align: center;
@@ -50,7 +49,7 @@ body {
     margin-top: 10px;
     border: 20px;
     border-radius: 8px;
-    overflow: auto;   
+    overflow: scroll;   
     
 }
 
@@ -131,7 +130,7 @@ body {
 
 .paragraphs {
     font-size: 155%; 
-    color: darkgreen;
+    color: black;
     text-align: justify;
 
 }
@@ -147,7 +146,7 @@ body {
     float: left;
     margin: 1% 25px;
     width: 350px;
-    height:300px;
+    height:320px;
 
 }
 
@@ -156,4 +155,5 @@ body {
     margin: 1px;
     width: 250px; 
     height:250px;
+
 }
