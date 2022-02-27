@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #425DE4;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.header {
+    background-color:white;  
+    padding: 20px;
+    text-align: left;
+    margin-top: 0;
+    border: 2px;
+    border-radius: 8px;
+
+}
+
+.topnavigation {
+    overflow:hidden;
+    background-color:lightseagreen;
+    border-radius: 8px;
+}
+
+.topnavigation a {
+    float:inline-end;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnavigation a:hover {
+    background-color: #ddd;
+    color: black;
+
+}
