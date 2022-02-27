@@ -59,3 +59,48 @@ body {
     color: white;
        
 }
+
+.projects {
+    background-color: white;
+    margin-top: 10px;
+    border: 20px;
+    border-radius: 8px;
+
+}
+.projects-heading {
+    position: sticky;
+    padding: 10px;
+    background-color: lightseagreen;
+    margin: 25px;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+       
+}
+
+
+.projects-column-1 {
+    float: right;
+    width: 50%;
+    height: 150px;
+    padding: 20px;
+    
+
+}
+
+.projects-column-2 {
+    float: right;
+    width: 50%;
+    height: 150px;
+    padding: 20px;
+    overflow:hidden
+    
+
+}
+
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
