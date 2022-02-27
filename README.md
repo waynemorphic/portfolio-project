@@ -10,7 +10,7 @@
 
 ### Description
 This is a landing page of Wayne Kirimi, a software development student 
-in Moringa School. The landing page showcases the student's portfolio.  
+in Moringa School. The landing page showcases the student's portfolio.    
 The contents of the landing page includes; 
 1. An about section,
 2. Projects the student has worked on in the past
@@ -24,7 +24,7 @@ _HTML_ is used for structuring while _CSS_ used for styling and positioning.
 [w3schools](https://www.w3schools.com)
 
 ### Copyright & Licence Info
-Copyright <2022> <Wayne Kirimi>
+MIT Copyright (c) 2022 Wayne Kirimi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
