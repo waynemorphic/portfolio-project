@@ -79,16 +79,9 @@ body {
 }
 
 
-.projects-column-1 {
-    float: right;
-    width: 50%;
-    height: 150px;
-    padding: 20px;
-    
 
-}
 
-.projects-column-2 {
+.column {
     float: right;
     width: 50%;
     height: 150px;
